@@ -5,3 +5,7 @@
 # 引用元は？
 
 + http://qiita.com/hadzimme/items/2e636b035bfda3eb164f
+
+# MySQLの設定は？
+
++ http://qiita.com/dainghiavotinh/items/eaf68301d1cd109fae83
