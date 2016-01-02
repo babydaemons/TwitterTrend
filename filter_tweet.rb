@@ -36,6 +36,5 @@ $stdin.each do |line|
   end
   next unless text = tweet["text"]
   next unless text[/\p{Hiragana}/]
-  puts json
   Tweet.add tweet
 end
